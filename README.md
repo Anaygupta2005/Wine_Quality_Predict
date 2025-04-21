@@ -1,6 +1,3 @@
-# Wine_Quality_Predict
-Unsupervised clustering analysis on red wine quality data using KMeans and data normalization. Explores the relationship between chemical properties and perceived wine quality.
-
 # Wine Quality Clustering with KMeans
 
 This project uses unsupervised machine learning (KMeans clustering) to analyze and group red wines based on their chemical properties. The goal is to understand whether wines with similar chemical characteristics tend to receive similar quality ratings.
